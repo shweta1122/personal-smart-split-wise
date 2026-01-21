@@ -1,0 +1,7 @@
+{
+  "name": "SplitSmart",
+  "description": "A collaborative expense sharing and bill splitting application for roommates and travel groups, featuring AI-powered receipt scanning and debt simplification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
